@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Basicview</string>
+
+    <string-array name="lan_array">
+        <item>VietNamese</item>
+        <item>English</item>
+        <item>French</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
